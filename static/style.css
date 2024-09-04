@@ -47,3 +47,21 @@ input[type="submit"]:hover {
     background-color: #45a049;
 }
 
+p {
+    text-align: center;
+}
+
+.too-thin {
+    color: blue;
+}
+
+.normal {
+    color: green;
+}
+
+.too-fat {
+    color: red;
+}
+
+
+
